@@ -1,0 +1,13 @@
+kartunnen:
+    type: Book
+    title: Fundamental Astronomy
+    author: Karttunen, Hannu
+    edition: Sixth Edition
+    date: 2016-11-16
+
+royandclarke:
+    type: Book
+    title: "Astronomy: Principles and Practice"
+    author: ["Roy, Archie E", "Clarke, David"]
+    edition: Fourth Edition
+    date: 2018-3-29
